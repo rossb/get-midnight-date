@@ -1,6 +1,6 @@
 # get-midnight-date
 
-Takes a valid Date object and returns a Date object set to the same date at midnight local time.
+Takes Date object and returns another Date object set to the same date at midnight local time.
 
 ## Install
 

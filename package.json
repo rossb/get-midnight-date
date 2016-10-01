@@ -1,11 +1,15 @@
 {
   "name": "get-midnight-date",
   "version": "1.0.0",
-  "description": "Takes a Date object, returns one set to midnight on that date.",
+  "description": "Takes Date object and returns another Date object set to the same date at midnight local time.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/.bin/mocha --reporter spec"
   },
   "author": "Ross Barnes <r@rossb.biz>",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.0"
+  }
 }
