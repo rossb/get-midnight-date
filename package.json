@@ -1,0 +1,11 @@
+{
+  "name": "get-midnight-date",
+  "version": "1.0.0",
+  "description": "Takes a Date object, returns one set to midnight on that date.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ross Barnes <r@rossb.biz>",
+  "license": "ISC"
+}
