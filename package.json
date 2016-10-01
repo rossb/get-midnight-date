@@ -11,5 +11,13 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rossb/get-midnight-date.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rossb/get-midnight-date/issues"
+  },
+  "homepage": "https://github.com/rossb/get-midnight-date#readme"
 }
